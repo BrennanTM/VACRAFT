@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-05T23:55:59.505932",
+  "files_verified": {
+    "Page_Views.xlsx": {
+      "exists": true,
+      "size": 297571,
+      "md5": "992afc7e7121a6b00103ffb0bd46c662",
+      "description": "Original page view logs"
+    },
+    "Login_History.xlsx": {
+      "exists": true,
+      "size": 21969,
+      "md5": "37ee152261d8065c76ed102f249f4cff",
+      "description": "Original login history"
+    },
+    "Data_Dictionary_FINAL.csv": {
+      "exists": true,
+      "size": 20893,
+      "md5": "095684e027d6a1b88568e3f501db4088",
+      "description": "Extracted course structure"
+    },
+    "CRAFT_PTSD_Engagement_Metrics.xlsx": {
+      "exists": true,
+      "size": 12987,
+      "md5": "c33b5b69e5b141a805934f0fb7cd7257",
+      "description": "Generated metrics"
+    },
+    "CRAFT_PTSD_Synthesis.txt": {
+      "exists": true,
+      "size": 8370,
+      "md5": "e615d42b00346aa5bd9cb2ec3364e796",
+      "description": "Generated synthesis report"
+    }
+  },
+  "data_stats": {
+    "total_users": 62,
+    "total_views": 13253,
+    "dictionary_pages": 192
+  },
+  "verification_status": "PASS"
+}

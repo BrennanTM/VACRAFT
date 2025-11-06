@@ -1,0 +1,193 @@
+Page_ID,Title,Section,Lesson,Content_Type,Is_First_Page,Is_Last_Page
+1,Welcome,,,Welcome,True,True
+2,Section 1: Introduction (Lesson 1),Section 1,Lesson 1,Introduction,True,False
+3,Section 1: Introduction (Lesson 1) - Page 2,Section 1,Lesson 1,Educational Content,False,False
+4,Section 1: Introduction (Lesson 1) - Page 3,Section 1,Lesson 1,Educational Content,False,False
+5,Section 1: Introduction (Lesson 1) - Page 4,Section 1,Lesson 1,Educational Content,False,False
+6,Section 1: Introduction (Lesson 1) - Page 5,Section 1,Lesson 1,Educational Content,False,False
+7,Section 1: Introduction (Lesson 1) - Page 6,Section 1,Lesson 1,Educational Content,False,False
+8,Section 1: Introduction (Lesson 1) - Page 7,Section 1,Lesson 1,Educational Content,False,False
+9,Section 1: Introduction (Lesson 1) - Page 8,Section 1,Lesson 1,Educational Content,False,False
+10,Section 1: Introduction (Lesson 1) - Page 9,Section 1,Lesson 1,Educational Content,False,False
+11,Section 1: Introduction (Lesson 1) - Page 10,Section 1,Lesson 1,Educational Content,False,False
+12,Section 1: Introduction (Lesson 1) - Page 11,Section 1,Lesson 1,Educational Content,False,False
+13,Section 1: Introduction (Lesson 1) - Page 12,Section 1,Lesson 1,Educational Content,False,False
+14,Section 1: Introduction (Lesson 1) - Page 13,Section 1,Lesson 1,Educational Content,False,False
+15,Section 1: Introduction (Lesson 1) - Page 14,Section 1,Lesson 1,Educational Content,False,False
+16,Section 1: Introduction (Lesson 1) - Page 15,Section 1,Lesson 1,Educational Content,False,False
+17,Section 1: Introduction (Lesson 1) - Summary,Section 1,Lesson 1,Lesson Summary,False,True
+18,Section 1: Introduction (Lesson 1),Section 1,Lesson 1,Introduction,True,False
+19,Section 1: Introduction (Lesson 1) - Page 2,Section 1,Lesson 1,Educational Content,False,False
+20,Section 1: Introduction (Lesson 1) - Page 3,Section 1,Lesson 1,Educational Content,False,False
+21,Section 1: Introduction (Lesson 1) - Page 4,Section 1,Lesson 1,Educational Content,False,False
+22,Section 1: Introduction (Lesson 1) - Page 5,Section 1,Lesson 1,Educational Content,False,False
+23,Section 1: Introduction (Lesson 1) - Page 6,Section 1,Lesson 1,Educational Content,False,False
+24,Section 1: Introduction (Lesson 1) - Page 7,Section 1,Lesson 1,Educational Content,False,False
+25,Section 1: Introduction (Lesson 1) - Page 8,Section 1,Lesson 1,Educational Content,False,False
+26,Section 1: Introduction (Lesson 1) - Page 9,Section 1,Lesson 1,Educational Content,False,False
+27,Section 1: Introduction (Lesson 1) - Page 10,Section 1,Lesson 1,Educational Content,False,False
+28,Section 1: Introduction (Lesson 1) - Page 11,Section 1,Lesson 1,Educational Content,False,False
+29,Section 1: Introduction (Lesson 1) - Page 12,Section 1,Lesson 1,Educational Content,False,False
+30,Section 1: Introduction (Lesson 1) - Page 13,Section 1,Lesson 1,Educational Content,False,False
+31,Section 1: Introduction (Lesson 1) - Page 14,Section 1,Lesson 1,Educational Content,False,False
+32,Section 1: Introduction (Lesson 1) - Page 15,Section 1,Lesson 1,Educational Content,False,False
+33,Section 1: Introduction (Lesson 1) - Summary,Section 1,Lesson 1,Lesson Summary,False,True
+34,Section 2: Safety Planning (Lesson 2),Section 2,Lesson 2,Section Introduction,True,False
+35,Section 2: Safety Planning (Lesson 2) - Page 2,Section 2,Lesson 2,Safety Content,False,False
+36,Section 2: Safety Planning (Lesson 2) - Page 3,Section 2,Lesson 2,Safety Content,False,False
+37,Section 2: Safety Planning (Lesson 2) - Page 4,Section 2,Lesson 2,Safety Content,False,False
+38,Section 2: Safety Planning (Lesson 2) - Page 5,Section 2,Lesson 2,Safety Content,False,False
+39,Section 2: Safety Planning (Lesson 2) - Page 6,Section 2,Lesson 2,Safety Content,False,False
+40,Section 2: Safety Planning (Lesson 2) - Page 7,Section 2,Lesson 2,Safety Content,False,False
+41,Section 2: Safety Planning (Lesson 2) - Page 8,Section 2,Lesson 2,Safety Content,False,False
+42,Section 2: Safety Planning (Lesson 2) - Page 9,Section 2,Lesson 2,Safety Content,False,False
+43,Section 2: Safety Planning (Lesson 2) - Page 10,Section 2,Lesson 2,Safety Content,False,False
+44,Section 2: Safety Planning (Lesson 2) - Page 11,Section 2,Lesson 2,Safety Content,False,False
+45,Section 2: Safety Planning (Lesson 2) - Page 12,Section 2,Lesson 2,Safety Content,False,False
+46,Section 2: Safety Planning (Lesson 2) - Summary,Section 2,Lesson 2,Lesson Summary,False,True
+47,Section 3: Improve the Situation: ,Section 3,,Section Introduction,True,True
+48,Section 3: Understand PTSD (Lesson 3),Section 3,Lesson 3,Section Introduction,True,False
+49,Section 3: Understand PTSD (Lesson 3) - Page 2,Section 3,Lesson 3,PTSD Education,False,False
+50,Section 3: Understand PTSD (Lesson 3) - Page 3,Section 3,Lesson 3,PTSD Education,False,False
+51,Section 3: Understand PTSD (Lesson 3) - Page 4,Section 3,Lesson 3,PTSD Education,False,False
+52,Section 3: Understand PTSD (Lesson 3) - Page 5,Section 3,Lesson 3,PTSD Education,False,False
+53,Section 3: Understand PTSD (Lesson 3) - Page 6,Section 3,Lesson 3,PTSD Education,False,False
+54,Section 3: Understand PTSD (Lesson 3) - Page 7,Section 3,Lesson 3,PTSD Education,False,False
+55,Section 3: Understand PTSD (Lesson 3) - Page 8,Section 3,Lesson 3,PTSD Education,False,False
+56,Section 3: Understand PTSD (Lesson 3) - Page 9,Section 3,Lesson 3,PTSD Education,False,False
+57,Section 3: Understand PTSD (Lesson 3) - Page 10,Section 3,Lesson 3,PTSD Education,False,False
+58,Section 3: Understand PTSD (Lesson 3) - Page 11,Section 3,Lesson 3,PTSD Education,False,False
+59,Section 3: Understand PTSD (Lesson 3) - Page 12,Section 3,Lesson 3,PTSD Education,False,False
+60,Section 3: Understand PTSD (Lesson 3) - Page 13,Section 3,Lesson 3,PTSD Education,False,False
+61,Section 3: Understand PTSD (Lesson 3) - Page 14,Section 3,Lesson 3,PTSD Education,False,False
+62,Section 3: Understand PTSD (Lesson 3) - Page 15,Section 3,Lesson 3,PTSD Education,False,False
+63,Section 3: Understand PTSD (Lesson 3) - Page 16,Section 3,Lesson 3,PTSD Education,False,False
+64,Section 3: Understand PTSD (Lesson 3) - Page 17,Section 3,Lesson 3,PTSD Education,False,False
+65,Section 3: Understand PTSD (Lesson 3) - Page 18,Section 3,Lesson 3,PTSD Education,False,False
+66,Section 3: Understand PTSD (Lesson 3) - Page 19,Section 3,Lesson 3,PTSD Education,False,False
+67,Section 3: Understand PTSD (Lesson 3) - Page 20,Section 3,Lesson 3,PTSD Education,False,False
+68,Section 3: Understand PTSD (Lesson 3) - Page 21,Section 3,Lesson 3,PTSD Education,False,False
+69,Section 3: Understand PTSD (Lesson 3) - Page 22,Section 3,Lesson 3,PTSD Education,False,False
+70,Section 3: Understand PTSD (Lesson 3) - Page 23,Section 3,Lesson 3,PTSD Education,False,False
+71,Section 3: Understand PTSD (Lesson 3) - Summary,Section 3,Lesson 3,Lesson Summary,False,True
+72,Section 3: Increase Positive Behaviors (Lesson 4),Section 3,Lesson 4,Section Introduction,True,False
+73,Section 3: Increase Positive Behaviors (Lesson 4) - Page 2,Section 3,Lesson 4,Positive Reinforcement,False,False
+74,Section 3: Increase Positive Behaviors (Lesson 4) - Page 3,Section 3,Lesson 4,Positive Reinforcement,False,False
+75,Section 3: Increase Positive Behaviors (Lesson 4) - Page 4,Section 3,Lesson 4,Positive Reinforcement,False,False
+76,Section 3: Increase Positive Behaviors (Lesson 4) - Page 5,Section 3,Lesson 4,Positive Reinforcement,False,False
+77,Section 3: Increase Positive Behaviors (Lesson 4) - Page 6,Section 3,Lesson 4,Positive Reinforcement,False,False
+78,Section 3: Increase Positive Behaviors (Lesson 4) - Page 7,Section 3,Lesson 4,Positive Reinforcement,False,False
+79,Section 3: Increase Positive Behaviors (Lesson 4) - Page 8,Section 3,Lesson 4,Positive Reinforcement,False,False
+80,Section 3: Increase Positive Behaviors (Lesson 4) - Page 9,Section 3,Lesson 4,Positive Reinforcement,False,False
+81,Section 3: Increase Positive Behaviors (Lesson 4) - Page 10,Section 3,Lesson 4,Positive Reinforcement,False,False
+82,Section 3: Increase Positive Behaviors (Lesson 4) - Page 11,Section 3,Lesson 4,Positive Reinforcement,False,False
+83,Section 3: Increase Positive Behaviors (Lesson 4) - Page 12,Section 3,Lesson 4,Positive Reinforcement,False,False
+84,Section 3: Increase Positive Behaviors (Lesson 4) - Page 13,Section 3,Lesson 4,Positive Reinforcement,False,False
+85,Section 3: Increase Positive Behaviors (Lesson 4) - Summary,Section 3,Lesson 4,Lesson Summary,False,True
+86,Section 4: Care for Yourself,Section 4,,Section Introduction,True,True
+87,Section 4: Use Self-Rewards and Social Support (Lesson 5),Section 4,Lesson 5,Section Introduction,True,False
+88,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 2,Section 4,Lesson 5,Positive Reinforcement,False,False
+89,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 3,Section 4,Lesson 5,Positive Reinforcement,False,False
+90,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 4,Section 4,Lesson 5,Positive Reinforcement,False,False
+91,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 5,Section 4,Lesson 5,Positive Reinforcement,False,False
+92,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 6,Section 4,Lesson 5,Positive Reinforcement,False,False
+93,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 7,Section 4,Lesson 5,Positive Reinforcement,False,False
+94,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 8,Section 4,Lesson 5,Positive Reinforcement,False,False
+95,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 9,Section 4,Lesson 5,Positive Reinforcement,False,False
+96,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 10,Section 4,Lesson 5,Positive Reinforcement,False,False
+97,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 11,Section 4,Lesson 5,Positive Reinforcement,False,False
+98,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 12,Section 4,Lesson 5,Positive Reinforcement,False,False
+99,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 13,Section 4,Lesson 5,Positive Reinforcement,False,False
+100,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Page 14,Section 4,Lesson 5,Positive Reinforcement,False,False
+101,Section 4: Use Self-Rewards and Social Support (Lesson 5) - Summary,Section 4,Lesson 5,Lesson Summary,False,True
+102,Section 4: Improve Problem Solving (Lesson 6),Section 4,Lesson 6,Section Introduction,True,False
+103,Section 4: Improve Problem Solving (Lesson 6) - Page 2,Section 4,Lesson 6,Problem Solving,False,False
+104,Section 4: Improve Problem Solving (Lesson 6) - Page 3,Section 4,Lesson 6,Problem Solving,False,False
+105,Section 4: Improve Problem Solving (Lesson 6) - Page 4,Section 4,Lesson 6,Problem Solving,False,False
+106,Section 4: Improve Problem Solving (Lesson 6) - Page 5,Section 4,Lesson 6,Problem Solving,False,False
+107,Section 4: Improve Problem Solving (Lesson 6) - Page 6,Section 4,Lesson 6,Problem Solving,False,False
+108,Section 4: Improve Problem Solving (Lesson 6) - Page 7,Section 4,Lesson 6,Problem Solving,False,False
+109,Section 4: Improve Problem Solving (Lesson 6) - Page 8,Section 4,Lesson 6,Problem Solving,False,False
+110,Section 4: Improve Problem Solving (Lesson 6) - Page 9,Section 4,Lesson 6,Problem Solving,False,False
+111,Section 4: Improve Problem Solving (Lesson 6) - Page 10,Section 4,Lesson 6,Problem Solving,False,False
+112,Section 4: Improve Problem Solving (Lesson 6) - Page 11,Section 4,Lesson 6,Problem Solving,False,False
+113,Section 4: Improve Problem Solving (Lesson 6) - Page 12,Section 4,Lesson 6,Problem Solving,False,False
+114,Section 4: Improve Problem Solving (Lesson 6) - Summary,Section 4,Lesson 6,Lesson Summary,False,True
+115,Section 4: Reduce Stress and Improve Sleep (Lesson 7),Section 4,Lesson 7,Section Introduction,True,False
+116,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 2,Section 4,Lesson 7,Stress Management,False,False
+117,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 3,Section 4,Lesson 7,Stress Management,False,False
+118,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 4,Section 4,Lesson 7,Stress Management,False,False
+119,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 5,Section 4,Lesson 7,Stress Management,False,False
+120,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 6,Section 4,Lesson 7,Stress Management,False,False
+121,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 7,Section 4,Lesson 7,Stress Management,False,False
+122,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 8,Section 4,Lesson 7,Stress Management,False,False
+123,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 9,Section 4,Lesson 7,Stress Management,False,False
+124,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 10,Section 4,Lesson 7,Stress Management,False,False
+125,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 11,Section 4,Lesson 7,Stress Management,False,False
+126,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 12,Section 4,Lesson 7,Stress Management,False,False
+127,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 13,Section 4,Lesson 7,Stress Management,False,False
+128,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 14,Section 4,Lesson 7,Stress Management,False,False
+129,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 15,Section 4,Lesson 7,Stress Management,False,False
+130,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Page 16,Section 4,Lesson 7,Stress Management,False,False
+131,Section 4: Reduce Stress and Improve Sleep (Lesson 7) - Summary,Section 4,Lesson 7,Lesson Summary,False,True
+132,Section 5: Rebuild Your Relationship,Section 5,,Section Introduction,True,True
+133,Section 5: Practice Positive Communication (Lesson 8),Section 5,Lesson 8,Section Introduction,True,False
+134,Section 5: Practice Positive Communication (Lesson 8) - Page 2,Section 5,Lesson 8,Communication Skills,False,False
+135,Section 5: Practice Positive Communication (Lesson 8) - Page 3,Section 5,Lesson 8,Communication Skills,False,False
+136,Section 5: Practice Positive Communication (Lesson 8) - Page 4,Section 5,Lesson 8,Communication Skills,False,False
+137,Section 5: Practice Positive Communication (Lesson 8) - Page 5,Section 5,Lesson 8,Communication Skills,False,False
+138,Section 5: Practice Positive Communication (Lesson 8) - Page 6,Section 5,Lesson 8,Communication Skills,False,False
+139,Section 5: Practice Positive Communication (Lesson 8) - Page 7,Section 5,Lesson 8,Communication Skills,False,False
+140,Section 5: Practice Positive Communication (Lesson 8) - Page 8,Section 5,Lesson 8,Communication Skills,False,False
+141,Section 5: Practice Positive Communication (Lesson 8) - Page 9,Section 5,Lesson 8,Communication Skills,False,False
+142,Section 5: Practice Positive Communication (Lesson 8) - Page 10,Section 5,Lesson 8,Communication Skills,False,False
+143,Section 5: Practice Positive Communication (Lesson 8) - Page 11,Section 5,Lesson 8,Communication Skills,False,False
+144,Section 5: Practice Positive Communication (Lesson 8) - Page 12,Section 5,Lesson 8,Communication Skills,False,False
+145,Section 5: Practice Positive Communication (Lesson 8) - Summary,Section 5,Lesson 8,Lesson Summary,False,True
+146,Section 5: Share Pleasant Activities (Lesson 9),Section 5,Lesson 9,Section Introduction,True,False
+147,Section 5: Share Pleasant Activities (Lesson 9) - Page 2,Section 5,Lesson 9,Educational Content,False,False
+148,Section 5: Share Pleasant Activities (Lesson 9) - Page 3,Section 5,Lesson 9,Educational Content,False,False
+149,Section 5: Share Pleasant Activities (Lesson 9) - Page 4,Section 5,Lesson 9,Educational Content,False,False
+150,Section 5: Share Pleasant Activities (Lesson 9) - Page 5,Section 5,Lesson 9,Educational Content,False,False
+151,Section 5: Share Pleasant Activities (Lesson 9) - Page 6,Section 5,Lesson 9,Educational Content,False,False
+152,Section 5: Share Pleasant Activities (Lesson 9) - Page 7,Section 5,Lesson 9,Educational Content,False,False
+153,Section 5: Share Pleasant Activities (Lesson 9) - Page 8,Section 5,Lesson 9,Educational Content,False,False
+154,Section 5: Share Pleasant Activities (Lesson 9) - Page 9,Section 5,Lesson 9,Educational Content,False,False
+155,Section 5: Share Pleasant Activities (Lesson 9) - Page 10,Section 5,Lesson 9,Educational Content,False,False
+156,Section 5: Share Pleasant Activities (Lesson 9) - Page 11,Section 5,Lesson 9,Educational Content,False,False
+157,Section 5: Share Pleasant Activities (Lesson 9) - Page 12,Section 5,Lesson 9,Educational Content,False,False
+158,Section 5: Share Pleasant Activities (Lesson 9) - Summary,Section 5,Lesson 9,Lesson Summary,False,True
+159,Section 6: Get Your Veteran into Care ,Section 6,,Section Introduction,True,True
+160,Section 6: Explore Treatment Options (Lesson 10),Section 6,Lesson 10,Section Introduction,True,False
+161,Section 6: Explore Treatment Options (Lesson 10) - Page 2,Section 6,Lesson 10,Treatment Information,False,False
+162,Section 6: Explore Treatment Options (Lesson 10) - Page 3,Section 6,Lesson 10,Treatment Information,False,False
+163,Section 6: Explore Treatment Options (Lesson 10) - Page 4,Section 6,Lesson 10,Treatment Information,False,False
+164,Section 6: Explore Treatment Options (Lesson 10) - Page 5,Section 6,Lesson 10,Treatment Information,False,False
+165,Section 6: Explore Treatment Options (Lesson 10) - Page 6,Section 6,Lesson 10,Treatment Information,False,False
+166,Section 6: Explore Treatment Options (Lesson 10) - Page 7,Section 6,Lesson 10,Treatment Information,False,False
+167,Section 6: Explore Treatment Options (Lesson 10) - Page 8,Section 6,Lesson 10,Treatment Information,False,False
+168,Section 6: Explore Treatment Options (Lesson 10) - Page 9,Section 6,Lesson 10,Treatment Information,False,False
+169,Section 6: Explore Treatment Options (Lesson 10) - Page 10,Section 6,Lesson 10,Treatment Information,False,False
+170,Section 6: Explore Treatment Options (Lesson 10) - Page 11,Section 6,Lesson 10,Treatment Information,False,False
+171,Section 6: Explore Treatment Options (Lesson 10) - Page 12,Section 6,Lesson 10,Treatment Information,False,False
+172,Section 6: Explore Treatment Options (Lesson 10) - Summary,Section 6,Lesson 10,Lesson Summary,False,True
+173,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11),Section 6,Lesson 11,Section Introduction,True,False
+174,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 2,Section 6,Lesson 11,Treatment Information,False,False
+175,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 3,Section 6,Lesson 11,Treatment Information,False,False
+176,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 4,Section 6,Lesson 11,Treatment Information,False,False
+177,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 5,Section 6,Lesson 11,Treatment Information,False,False
+178,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 6,Section 6,Lesson 11,Treatment Information,False,False
+179,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 7,Section 6,Lesson 11,Treatment Information,False,False
+180,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 8,Section 6,Lesson 11,Treatment Information,False,False
+181,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 9,Section 6,Lesson 11,Treatment Information,False,False
+182,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 10,Section 6,Lesson 11,Treatment Information,False,False
+183,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 11,Section 6,Lesson 11,Treatment Information,False,False
+184,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 12,Section 6,Lesson 11,Treatment Information,False,False
+185,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 13,Section 6,Lesson 11,Treatment Information,False,False
+186,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Page 14,Section 6,Lesson 11,Treatment Information,False,False
+187,Section 6: Discuss Treatment Options with Your Veteran (Lesson 11) - Summary,Section 6,Lesson 11,Lesson Summary,False,True
+188,Section 6: Supporting Your Loved One's Treatment (Lesson 12),Section 6,Lesson 12,Section Introduction,True,False
+189,Section 6: Supporting Your Loved One's Treatment (Lesson 12) - Page 2,Section 6,Lesson 12,Treatment Information,False,False
+190,Section 6: Supporting Your Loved One's Treatment (Lesson 12) - Page 3,Section 6,Lesson 12,Treatment Information,False,False
+191,Section 6: Supporting Your Loved One's Treatment (Lesson 12) - Page 4,Section 6,Lesson 12,Treatment Information,False,False
+menu,Navigation Menu,,,Navigation,False,False

@@ -1,0 +1,201 @@
+
+VA CRAFT PTSD INTERVENTION - ENGAGEMENT ANALYSIS SUMMARY
+======================================================================
+
+OVERALL PARTICIPATION
+------------------------------
+• Total participants: 62 users
+• Total engagement: 464 sessions
+• Total page views: 13,253 pages
+• Study period: 2021-02-28 to 2025-04-22
+
+ENGAGEMENT METRICS
+------------------------------
+• Average time per user: 2.4 hours
+• Median time per user: 1.5 hours
+• Average visits per user: 7.5 sessions
+• Average pages per visit: 38.2 pages
+
+COURSE COMPLETION
+------------------------------
+• Full course completion: 0/62 users (0.0%)
+• Partial completion: 57/62 users
+• Average lessons completed: 5.3 of 12
+• Never progressed beyond intro: 8 users
+
+SECTION ENGAGEMENT
+------------------------------
+Section
+Section 1    55
+Section 3    43
+Section 4    43
+Section 2    40
+Section 5    34
+
+HIGH ENGAGEMENT ANALYSIS
+------------------------------
+Users with above-median engagement (>1.5 hours):
+• Count: 31 users
+• Average time: 4.3 hours
+• Average completion: 66.9%
+• Average visits: 12.5
+
+KEY INSIGHTS
+------------------------------
+1. Engagement varies widely, with time spent ranging from 0.0 to 21.8 hours.
+
+2. The completion rate of 44.0% suggests room for improvement in retention strategies.
+
+3. Section 1 is the most accessed section, engaged by 55 users.
+
+4. Users who engage more (>1.5 hours) show significantly higher completion rates.
+
+5. The average of 7.5 visits per user suggests the intervention requires sustained engagement.
+
+======================================================================
+Analysis completed: 2025-11-05 23:51:18
+
+
+INDIVIDUAL USER SUMMARIES (Top 20 by Engagement)
+======================================================================
+
+User 1160 (Invite Code 1160):
+  • Engaged in 108 sessions totaling 21.79 hours
+  • Activity span: 2021-03-31 17:18 to 2025-01-13 07:52 (1384 days)
+  • Viewed 2863 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1130 (Invite Code 1130):
+  • Engaged in 14 sessions totaling 12.9 hours
+  • Activity span: 2023-10-03 20:21 to 2023-12-28 13:35 (86 days)
+  • Viewed 723 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 190 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1125 (Invite Code 1125):
+  • Engaged in 51 sessions totaling 8.83 hours
+  • Activity span: 2023-06-24 15:49 to 2023-08-24 04:32 (61 days)
+  • Viewed 188 pages across 4/6 sections
+  • Completed 3/12 lessons (25.0% completion)
+  • Furthest progression: Page 151 - Section 5: Share Pleasant Activities (Lesson 9) - 
+
+User 1121 (Invite Code 1121):
+  • Engaged in 30 sessions totaling 7.56 hours
+  • Activity span: 2021-03-31 11:32 to 2023-01-23 02:59 (663 days)
+  • Viewed 1074 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1104 (Invite Code 1104):
+  • Engaged in 13 sessions totaling 6.56 hours
+  • Activity span: 2021-06-02 12:22 to 2021-08-04 12:25 (64 days)
+  • Viewed 354 pages across 6/6 sections
+  • Completed 10/12 lessons (83.3% completion)
+  • Furthest progression: Page 173 - Section 6: Discuss Treatment Options with Your Vet
+
+User 1120 (Invite Code 1120):
+  • Engaged in 9 sessions totaling 6.1 hours
+  • Activity span: 2023-03-09 21:56 to 2023-05-08 17:00 (60 days)
+  • Viewed 490 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1135 (Invite Code 1135):
+  • Engaged in 11 sessions totaling 5.89 hours
+  • Activity span: 2024-03-06 19:11 to 2024-04-16 15:52 (41 days)
+  • Viewed 324 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1118 (Invite Code 1118):
+  • Engaged in 8 sessions totaling 4.18 hours
+  • Activity span: 2023-03-10 23:36 to 2023-05-02 16:46 (53 days)
+  • Viewed 422 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1163 (Invite Code 1163):
+  • Engaged in 6 sessions totaling 3.92 hours
+  • Activity span: 2025-01-20 21:26 to 2025-03-24 06:51 (63 days)
+  • Viewed 241 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1114 (Invite Code 1114):
+  • Engaged in 2 sessions totaling 3.79 hours
+  • Activity span: 2022-07-21 20:46 to 2022-07-25 17:22 (4 days)
+  • Viewed 300 pages across 5/6 sections
+  • Completed 7/12 lessons (58.3% completion)
+  • Furthest progression: Page 142 - Section 5: Practice Positive Communication (Lesson
+
+User 1134 (Invite Code 1134):
+  • Engaged in 3 sessions totaling 3.69 hours
+  • Activity span: 2024-02-06 19:39 to 2024-02-13 14:12 (7 days)
+  • Viewed 214 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1119 (Invite Code 1119):
+  • Engaged in 4 sessions totaling 3.65 hours
+  • Activity span: 2023-03-07 03:57 to 2023-04-21 18:30 (46 days)
+  • Viewed 161 pages across 4/6 sections
+  • Completed 6/12 lessons (50.0% completion)
+  • Furthest progression: Page 115 - Section 4: Reduce Stress and Improve Sleep (Lesson
+
+User 1155 (Invite Code 1155):
+  • Engaged in 5 sessions totaling 3.59 hours
+  • Activity span: 2025-01-13 08:16 to 2025-02-20 09:28 (39 days)
+  • Viewed 188 pages across 5/6 sections
+  • Completed 5/12 lessons (41.7% completion)
+  • Furthest progression: Page 136 - Section 5: Practice Positive Communication (Lesson
+
+User 1133 (Invite Code 1133):
+  • Engaged in 7 sessions totaling 3.53 hours
+  • Activity span: 2024-01-29 15:55 to 2024-03-17 17:44 (49 days)
+  • Viewed 347 pages across 6/6 sections
+  • Completed 11/12 lessons (91.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1154 (Invite Code 1154):
+  • Engaged in 8 sessions totaling 3.44 hours
+  • Activity span: 2024-12-06 15:02 to 2025-02-18 13:08 (74 days)
+  • Viewed 240 pages across 6/6 sections
+  • Completed 9/12 lessons (75.0% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1105 (Invite Code 1105):
+  • Engaged in 8 sessions totaling 3.24 hours
+  • Activity span: 2021-09-07 16:45 to 2022-05-19 17:36 (255 days)
+  • Viewed 137 pages across 4/6 sections
+  • Completed 4/12 lessons (33.3% completion)
+  • Furthest progression: Page 156 - Section 5: Share Pleasant Activities (Lesson 9) - 
+
+User 1109 (Invite Code 1109):
+  • Engaged in 8 sessions totaling 2.79 hours
+  • Activity span: 2022-07-06 01:55 to 2023-01-28 14:44 (207 days)
+  • Viewed 207 pages across 5/6 sections
+  • Completed 7/12 lessons (58.3% completion)
+  • Furthest progression: Page 158 - Section 5: Share Pleasant Activities (Lesson 9) - 
+
+User 1128 (Invite Code 1128):
+  • Engaged in 3 sessions totaling 2.77 hours
+  • Activity span: 2023-10-10 18:42 to 2023-10-25 21:15 (16 days)
+  • Viewed 112 pages across 4/6 sections
+  • Completed 3/12 lessons (25.0% completion)
+  • Furthest progression: Page 129 - Section 4: Reduce Stress and Improve Sleep (Lesson
+
+User 1102 (Invite Code 1102):
+  • Engaged in 6 sessions totaling 2.75 hours
+  • Activity span: 2021-05-27 18:12 to 2021-08-11 12:04 (76 days)
+  • Viewed 204 pages across 6/6 sections
+  • Completed 8/12 lessons (66.7% completion)
+  • Furthest progression: Page 191 - Section 6: Supporting Your Loved One's Treatment (
+
+User 1148 (Invite Code 1148):
+  • Engaged in 6 sessions totaling 2.58 hours
+  • Activity span: 2024-11-03 18:53 to 2024-12-01 15:14 (28 days)
+  • Viewed 151 pages across 6/6 sections
+  • Completed 7/12 lessons (58.3% completion)
+  • Furthest progression: Page 164 - Section 6: Explore Treatment Options (Lesson 10) -
+
